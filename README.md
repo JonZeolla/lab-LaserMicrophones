@@ -8,7 +8,7 @@ http://www.meetup.com/Steel-City-InfoSec/events/219474655/
 ## How to clone this branch
 * `git clone https://github.com/JonZeolla/lab-lasermicrophones`  
   * Clone the latest revision of the lab-LaserMicrophones repo.  
-* `git clone -b 2015-01-22_SCIS_AudioSurveillance https://github.com/JonZeolla/lab-laser-microphones`  
+* `git clone -b 2015-01-22_SCIS_AudioSurveillance https://github.com/JonZeolla/lab-lasermicrophones`  
   * Clone the revision of the lab-LaserMicrophones repo used during the 2015-01-22 Steel City InfoSec lab.  Cloning any of the pointers (tags) will put you in a detached HEAD state, which is expected.  
 
 ## Next Steps  
