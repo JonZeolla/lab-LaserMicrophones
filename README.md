@@ -1,6 +1,6 @@
 # Laser Microphones Lab  
 
-## Lab Origins  
+## Related Events  
 ### 2015-01-22 Steel City Information Security Lab  
 http://www.meetup.com/Steel-City-InfoSec/messages/boards/thread/48676379  
 http://www.meetup.com/Steel-City-InfoSec/events/219474655/  
@@ -16,4 +16,3 @@ http://www.meetup.com/Steel-City-InfoSec/events/219474655/
 
 ## Migration  
 On 2016-12-03, this repo was migrated from the AudioSurveillence branch of https://github.com/JonZeolla/Lab to its own standalone repository.  This was in order to make contributions and third party use easier, as I received feedback that the branching strategy used before was confusing to some.  
-
