@@ -12,7 +12,7 @@ http://www.meetup.com/Steel-City-InfoSec/events/219474655/
   * Clone the revision of the lab-LaserMicrophones repo used during the 2015-01-22 Steel City InfoSec lab.  Cloning any of the pointers (tags) will put you in a detached HEAD state, which is expected.  
 
 ## Next Steps  
-![Laser Mic Improvement](https://raw.githubusercontent.com/JonZeolla/Lab/AudioSurveillance/2015-01-22_LaserMicImprovement.JPG)
+![Laser Mic Improvement](https://raw.githubusercontent.com/JonZeolla/lab-LaserMicrophones/master/2015-01-22_LaserMicImprovement.JPG)
 
 ## Migration  
 On 2016-12-03, this repo was migrated from the AudioSurveillence branch of https://github.com/JonZeolla/Lab to its own standalone repository.  This was in order to make contributions and third party use easier, as I received feedback that the branching strategy used before was confusing to some.  
